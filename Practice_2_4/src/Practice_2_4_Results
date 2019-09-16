@@ -1,0 +1,10 @@
+Enter the amount of quarters: 
+Enter the amount of dimes: 
+Enter the amount of nickels: 
+Enter the amount of pennies: 
+The values you've entered are...
+Quarters:	45
+Dimes:		73
+Nickels:	50
+Pennies:	999
+Your total is 31 dollar(s) and 4 cent(s).
